@@ -1,0 +1,1 @@
+Shows an example of how to implement the Strategy pattern within a Grails Domain class.
